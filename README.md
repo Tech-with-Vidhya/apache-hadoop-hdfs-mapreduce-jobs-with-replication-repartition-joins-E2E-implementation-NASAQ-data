@@ -6,7 +6,7 @@ This project includes the development of a MapReduce python script with and with
 
 The data files are stored in the Hadoop HDFS and 2 jobs are executed in the Hadoop Cluster.   
 
-Identified solutions to the questions namely: 
+Implemented solutions to the below questions and scenarios: 
 1. Companies with most entries in the top 10 
 2. Decision on appropriate join strategy to be used and implemented for this problem statement 
 3. Year with the highest number of movements in the ‘Technology‘ sector 
