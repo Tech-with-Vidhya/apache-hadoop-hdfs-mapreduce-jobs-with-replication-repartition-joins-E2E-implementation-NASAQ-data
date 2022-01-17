@@ -1,4 +1,4 @@
-# hadoop-hdfs-mapreduce-jobs-with-replication-repartition-joins-E2E-implementation-NASAQ-data
+# apache-hadoop-hdfs-mapreduce-jobs-with-replication-repartition-joins-E2E-implementation-NASAQ-data
 
 This project is delivered as part of my Masters in Big Data Science (MSc BDS) Program for the module named “Big Data Processing” in Queen Mary University of London (QMUL), London, United Kingdom.  
 
